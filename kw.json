@@ -1,0 +1,27 @@
+{"success":true,"message":"","radios":
+[
+
+{"number":"1","name":"سمارت واي اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/smartswayfm.png","streamUrl":"http://streamer.radio.co/sda9c2b97d/listen","yourmuzeId":"0","state":"1"},
+{"number":"2","name":"مارينا إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/MarinaFM.png","streamUrl":"http://31.14.40.102:8006/MarinaFM%2090.4.mp3","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"صوت الشباب","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/ofm.png","streamUrl":"https://svs.itworkscdn.net/kofmlive/kofm/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"الشعبية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/ktraditional.png","streamUrl":"https://svs.itworkscdn.net/ktraditionallive/ktraditional/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"القرآن الكريم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/kwquran.png","streamUrl":"https://svs.itworkscdn.net/kquranlive/kquran/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"6","name":"كويت اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/kradiofm.jpg","streamUrl":"https://svs.itworkscdn.net/kuwaitfmlive/kfm/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"سوبر ستيشن","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/superstation.png","streamUrl":"https://svs.itworkscdn.net/ksuperstationlive/ksuper/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"8","name":"البرنامج العام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/kone.png","streamUrl":"https://svs.itworkscdn.net/kradioonelive/kone/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"الغناء العربي القديم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/kold.png","streamUrl":"https://svs.itworkscdn.net/koldlive/kold/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"10","name":"ايزي اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/easyfm.jpg","streamUrl":"https://svs.itworkscdn.net/keasylive/keasy/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"11","name":"البرنامج الثاني","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/kradio2.png","streamUrl":"https://svs.itworkscdn.net/kradio2live/kradio2/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"12","name":"نبض الكويت","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/FM888.jpeg","streamUrl":"http://162.244.80.118:3020/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"15","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/kw/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
+
+
+],
+"country":{"id":"60","name":"kuwait","logo":"..\/..\/_upload\/_flags\/kuwait.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
+
+
+
+
