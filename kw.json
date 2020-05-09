@@ -4,7 +4,7 @@
 {"number":"1","name":"سمارت واي اف ام","description":"","logo":"/smartswayfm.png","streamUrl":"http://streamer.radio.co/sda9c2b97d/listen","yourmuzeId":"0","state":"2"},
 {"number":"2","name":"marina FM(مارينا إف إم)","description":"","logo":"/MarinaFM.png","streamUrl":"http://31.14.40.102:8090/stream.ogg","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"sawt shabab(صوت الشباب)","description":"","logo":"/ofm.png","streamUrl":"https://kwmedia.hibridmedia.com/kwmedia/kwofm/chunks.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"4","name":"الشعبية","description":"","logo":"/ktraditional.png","streamUrl":"https://svs.itworkscdn.net/ktraditionallive/ktraditional/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"Traditional Station 94.9 FM(إذاعة الشعبية)","description":"","logo":"/ktraditional.png","streamUrl":"https://live.hibridcdn.net/kwmedia/kwshaabiya/chunks.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"AlQuran Alkareem(إذاعة القرآن الكريم)","description":"","logo":"/kwquran.png","streamUrl":"https://kwmedia.hibridmedia.com/kwmedia/kwholyquran/chunks.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"Kuwait FM 103.7(كويت اف ام)","description":"","logo":"/kradiofm.jpg","streamUrl":"https://live.hibridcdn.net/kwmedia/kwfm/chunks.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"7","name":"Super Staion FM(إذاعة سوبر ستيشن)","description":"","logo":"/superstation.png","streamUrl":"https://live.hibridcdn.net/kwmedia/kwsuper/chunks.m3u8","yourmuzeId":"0","state":"1"},
