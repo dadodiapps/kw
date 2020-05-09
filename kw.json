@@ -52,7 +52,7 @@
 {"number":"69","name":"اذكار الصباح","description":"","logo":"/xxx.jpg","streamUrl":"http://radio2.tarat.com:9300/;","yourmuzeId":"0","state":"1"}, 	
 {"number":"70","name":"اذكار المساء","description":"","logo":"/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"},
  
-{"number":"73","name":"صوت الإيمان","description":"","logo":"/صوت الإيمان","streamUrl":"http://www.emanlive.com:8000/;","yourmuzeId":"0","state":"1"}, 
+{"number":"73","name":"صوت الإيمان","description":"","logo":"/صوت الإيمان.jpg","streamUrl":"http://www.emanlive.com:8000/;","yourmuzeId":"0","state":"1"}, 
 
  
 {"number":"79","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://live.mp3quran.net:9990/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
